@@ -1,0 +1,10 @@
+[package]
+name = "set"
+version = "1.0.0"
+edition = "2021"
+authors = ["Joel Parker Henderson <joel@joelparkerhenderson.com>"]
+description = "This crate provides the `set!` macro to create a HashSet collection and insert elements. Inspired by the `vec!` macro."
+repository = "https://github.com/sixarm/map-macro-rust-crate/"
+license = "MIT OR Apache-2.0 OR GPL-2.0 OR GPL-3.0 OR BSD-3-Clause"
+keywords = ["set", "macro", "insert", "HashSet"]
+categories = ["rust-patterns", "development-tools"]
